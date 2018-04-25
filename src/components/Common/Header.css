@@ -1,0 +1,11 @@
+.header-section{
+  padding: 20px;
+  min-height: 30px;
+  background-color: #eeee;
+}
+
+.header-menu div{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
